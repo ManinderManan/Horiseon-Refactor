@@ -93,7 +93,7 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* These apperance rules apply fully to the entire benefits tabs section*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -104,7 +104,8 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* We made a class in the html file so we are able to 
+    condense the css file */
 .benefits div {
     margin-bottom: 32px;
     color: #ffffff;
@@ -120,8 +121,6 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
-
 
 .footer {
     padding: 30px;
